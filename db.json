@@ -1,18 +1,3 @@
 {
-  "cart": [
-    {
-      "name": "IPhone 13s Pro Max",
-      "price": 5000,
-      "img_url": "https://t2.tudocdn.net/590582?w=646&h=284",
-      "quantity": 4,
-      "id": 1
-    },
-    {
-      "name": "Teclado Razer BlackWidow V3 Tenkeyless",
-      "price": 950,
-      "img_url": "https://assets2.razerzone.com/images/pnx.assets/f83991a174978c3f88c089758ea9fa3c/blackwidow-v3-tenkeyless-usp1-mobile-v2.jpg",
-      "quantity": 1,
-      "id": 2
-    }
-  ]
+  "cart": []
 }
