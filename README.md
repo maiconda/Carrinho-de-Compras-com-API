@@ -35,14 +35,11 @@ O projeto em questão se trata de um carrinho de compras feito com a biblioteca 
 ◾️ Após o servidor ser iniciado, a url da aplicação será printada no seu terminal. Lembrando que para o projeto poder ser executado, é necessário ter o Node.js instalado no computador.
 
 ## Layout Mobile
-<img src="src/repositoryImg/mobile1.PNG" width="250px"/><img src="src/repositoryImg/mobile2.PNG" width="250px"/><img src="src/repositoryImg/mobile3.PNG" width="250px"/><img src="src/repositoryImg/mobile4.PNG" width="250px"/><img src="src/repositoryImg/mobile5.PNG" width="250px"/>
+<img src="src/img/mobile 1.PNG" width="250px"/><img src="src/img/mobile 2.PNG" width="250px"/><img src="src/img/mobile 3.PNG" width="250px"/>
 
 ## Layout Desktop
-<img src="src/repositoryImg/desktop1.PNG" width="700px"/>
-<img src="src/repositoryImg/desktop2.PNG" width="700px"/>
-<img src="src/repositoryImg/desktop3.PNG" width="700px"/>
-<img src="src/repositoryImg/desktop4.PNG" width="700px"/>
-<img src="src/repositoryImg/desktop5.PNG" width="700px"/>
+<img src="src/img/desktop 1.PNG" width="700px"/>
+<img src="src/img/desktop 2.PNG" width="700px"/>
 
 ## Tecnologias utilizadas
 
@@ -55,6 +52,10 @@ O projeto em questão se trata de um carrinho de compras feito com a biblioteca 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Ferramentas externas
+
+◾️ Json-Server
 
 ## Autor
 
