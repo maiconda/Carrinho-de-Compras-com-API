@@ -1,0 +1,24 @@
+.cards-div{
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: center;
+}
+
+.placeholder{
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+    margin: 10px 10px;
+    font-size: 20px;
+    padding: 16px 0;
+    border: 1px solid rgb(97, 97, 97);
+}
+
+@media (max-width: 700px){
+    .cards-div{
+        display: block;
+    }
+
+    .placeholder{
+        margin: 0px 20px; 
+    }
+}
