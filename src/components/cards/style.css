@@ -130,4 +130,9 @@ h3{
         text-align: center;
         padding-bottom: 25px;
     }
+    
+    .card-div h3 {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
 }
